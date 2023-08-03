@@ -1,0 +1,61 @@
+
+#how-it-work{
+    background: ghostwhite;
+}
+h5 {
+    font-weight: bold;
+    font-size: 32px;
+}
+p{
+    font-weight: normal;
+}
+.whatisACos{
+    height: 260px;
+}
+/* Custom CSS for the list */
+.custom-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.custom-list li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 60px;
+    margin-right: 10px;
+    border: 10px solid gainsboro;
+}
+.circle1{
+background-color: #007bff !important;
+}
+.circle2{
+    background-color: #343a40 !important;
+}
+.circle3{
+    background-color: orange !important;
+}
+
+.content {
+    background-color: #f8f9fa;
+
+    padding: 10px;
+    flex: 1;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.text-3{
+    color: orange;
+}

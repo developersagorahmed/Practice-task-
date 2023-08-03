@@ -1,0 +1,30 @@
+h2 {
+    font-weight: 500;
+    font-size: 50px;
+}
+
+h4 {
+    font-weight: 500;
+}
+h5{
+    font-weight: 500;
+}
+.start-btn {
+    font-weight: 500;
+    padding: 13px 28px;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 500;
+}
+.laptop{
+    height: 200px;
+    width: 300px;
+}
+.amazon{
+    height: 30px;
+    width: 130px;
+}

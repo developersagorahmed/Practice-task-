@@ -1,0 +1,28 @@
+.footer {
+    background: #f8f9fa !important;
+    padding: 20px;
+}
+
+ul li {
+    list-style: none;
+    margin-bottom: 20px;
+    color: #000;
+    font-weight: 400 !important;
+}
+
+.email-contact {
+    width: 60%;
+    height: 25%;
+    border-radius: 6px;
+    border: none;
+}
+
+li a {
+    color: #000;
+    font-weight: 400 !important;
+}
+
+li a:hover {
+    text-decoration: none;
+    color: #000;
+}

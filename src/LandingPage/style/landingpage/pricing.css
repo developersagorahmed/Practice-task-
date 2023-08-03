@@ -1,0 +1,52 @@
+#pricing{
+    background: ghostwhite;
+}
+.no-credit {
+    font-size: 12px;
+}
+
+.card {
+    width: 100%;
+}
+
+hr {
+    width: 15%;
+}
+
+.target {
+    font-size: 10px;
+}
+
+.subscribtion-item {
+    padding: 60px;
+    background-color: aliceblue;
+}
+
+.subscribtion-item li {
+    margin-bottom: 10px;
+    list-style: none;
+}
+
+.subscription-plan-area {
+    box-shadow: 2px 2px 26px 1px rgba(0, 0, 0, 0.03);
+    width: 90%;
+    margin-left: 20px;
+    padding: 15px;
+}
+.icon{
+    color:blue !important;
+    margin-right: 5px;
+}
+
+.NoBsPricing {
+    height: 100px;
+}
+
+.pricing {
+    width: 35%;
+}
+@media screen and (max-width: 768px) {
+    .pricing {
+        width: 100%;
+    }
+}
