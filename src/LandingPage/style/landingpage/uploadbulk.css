@@ -4,3 +4,8 @@ h1{
 h2 toGuide{
     margin-bottom: 40px;
 }
+
+.dndStyle{
+    width: 400px;
+    height: 400px;
+}
